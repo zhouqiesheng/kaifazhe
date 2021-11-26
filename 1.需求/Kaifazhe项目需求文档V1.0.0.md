@@ -8,7 +8,7 @@
 
 # 1     首页
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![首页](D:\Work\Django\kaifazhe\1.需求\首页.png)
 
 图1 首页示意图
 
@@ -26,7 +26,7 @@
 
 # 2     项目详情页
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![项目详情页](D:\Work\Django\kaifazhe\1.需求\项目详情页.png)
 
 1） 项目名称
 

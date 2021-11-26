@@ -6,7 +6,7 @@
 
  
 
-# 1     首页
+# 1 首页
 
 ![首页](https://user-images.githubusercontent.com/20807850/143535359-5feadd43-bbf5-4bc4-8dd5-b3d842f23ce5.png)
 
@@ -24,7 +24,7 @@
 
 首页的右上角提供登录和注册功能
 
-# 2     项目详情页
+# 2 项目详情页
 
 ![项目详情页](https://user-images.githubusercontent.com/20807850/143535420-0a23cb87-da1d-4ced-aec8-c723f22f30d6.png)
 
@@ -40,13 +40,14 @@
 
 注：跳转项目视图需要登录
 
-3	登录
+
+# 3	登录
 
 ![图片](https://user-images.githubusercontent.com/20807850/143556758-d46c3f46-258c-4967-ab52-b72ed950045b.png)
 
 图3 登录页面
 
-4	注册
+# 4	注册
 
 ![图片](https://user-images.githubusercontent.com/20807850/143556771-a1e44411-bdb0-4a66-ba78-64195547a92c.png)
 

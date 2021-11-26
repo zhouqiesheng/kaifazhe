@@ -8,7 +8,7 @@
 
 # 1     首页
 
-![首页](D:\Work\Django\kaifazhe\1.需求\首页.png)
+![首页](https://user-images.githubusercontent.com/20807850/143535359-5feadd43-bbf5-4bc4-8dd5-b3d842f23ce5.png)
 
 图1 首页示意图
 
@@ -26,7 +26,9 @@
 
 # 2     项目详情页
 
-![项目详情页](D:\Work\Django\kaifazhe\1.需求\项目详情页.png)
+![项目详情页](https://user-images.githubusercontent.com/20807850/143535420-0a23cb87-da1d-4ced-aec8-c723f22f30d6.png)
+
+图2 项目详情页示意图
 
 1） 项目名称
 

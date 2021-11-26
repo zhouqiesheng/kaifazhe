@@ -30,8 +30,6 @@
 
 图2 项目详情页示意图
 
-图1 首页示意图
-
 1） 项目名称
 
 显示当前项目的名称
@@ -47,6 +45,7 @@
 ![图片](https://user-images.githubusercontent.com/20807850/143556758-d46c3f46-258c-4967-ab52-b72ed950045b.png)
 
 图3 登录页面
+
 4	注册
 
 ![图片](https://user-images.githubusercontent.com/20807850/143556771-a1e44411-bdb0-4a66-ba78-64195547a92c.png)
